@@ -1,0 +1,6 @@
+body {
+  background-color: orange;
+}
+body * {
+  padding: 40px;
+}
